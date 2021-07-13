@@ -39,6 +39,7 @@ header nav li p{
 p{
     padding-top:  1%;
     font-weight: bolder;
+    padding-bottom: 10%;
 
 }
 #l{
@@ -63,9 +64,9 @@ body section{
     float: left;
     padding: 1%;
 }
-#pp{
-    padding-top:5%;
+button{
     float: left ;
     float: inline-start;
+    float: ;
     width: 20%;
 }
