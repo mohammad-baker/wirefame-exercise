@@ -82,7 +82,7 @@ body section{
 }
 button {
  margin-top: 14%;
-background:rgb(223, 106, 106);
+background:gray;
 border-color: #030303;
 color: #000000;
 padding: 5px 5px;
@@ -91,7 +91,7 @@ height: 57px;
 }
 
 button:hover{
-    background-color: blanchedalmond;
+    background-color: rgb(255, 247, 247);
 
 }
 
